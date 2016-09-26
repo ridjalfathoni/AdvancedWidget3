@@ -11,8 +11,8 @@ AdvancedWidget3
 
 #3. Identitas :
 
-Nama : Muhammad Ridjal Fathoni Rosyidi 
-Kelas : XI RPL 4 
-No : 24 
-NIS : 4770/1489.070 
-Nama Sekolah : SMK Telkom Malang
+Nama : Muhammad Ridjal Fathoni Rosyidi <br>
+Kelas : XI RPL 4 <br>
+No : 24 <br>
+NIS : 4770/1489.070 <br> 
+Nama Sekolah : SMK Telkom Malang <br>
